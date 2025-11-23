@@ -6,7 +6,7 @@
 > **P.S:** From now on, every practice project I work on will also be shared here.  
 > The goal is to document my progress over time so it can serve as a reference, and so you can get inspired and even collaborate on them. 🌱💻
 
-<h4 align="left">Give me some energy ⭐ by starring this repo, thank you!</h4>
+<h4 align="center">Give me some energy ⭐ by starring this repo, thank you!</h4>
 <br>
 
 <h1 align="left">Practice Projects Collections:</h1>
@@ -23,10 +23,15 @@
 <br>
 <br>
 
+<div dir="rtl">
+
+
 > **پی‌نوشت:** از این به بعد، هر پروژه تمرینی که روش کار می‌کنم، اینجا هم منتشر خواهد شد.  
 > هدف این است که پیشرفتم را به مرور زمان ثبت کنم تا به‌عنوان یک مرجع باشد، و شما هم بتوانید از آن‌ها ایده بگیرید و حتی در آن‌ها مشارکت کنید. 🌱💻
+</div>
 
-<h4 align="align="right"">با دادن ستاره به این ریپو بهم انرژی بده ⭐، ممنونم!</h4>
+<h4 align="center">با دادن ستاره به این ریپو بهم انرژی بده ⭐، ممنونم!</h4>
+
 <br>
 
 <h1 align="right">مجموعه پروژه‌های تمرینی:</h1>
